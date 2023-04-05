@@ -1,0 +1,46 @@
+.maindiv{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    margin-left: 25%;
+    border-width: 50px;
+    margin-top: 100px;
+    border-radius: 100px;
+    /* border-color: black;
+    border-style: dotted;
+    border-width: 100px; */
+
+}
+div{
+    background-color: black;
+    width: 600px;
+    height: 800px;
+    margin-left: 20%;
+    border-radius: 100px;
+}
+
+#output1{
+    background-color: aquamarine;
+    width: 310px;
+    height: 60px;
+    align-items: center;
+    border-radius: 10px;
+}
+#output2{
+    background-color: aquamarine;
+    width: 310px;
+    height: 60px;
+    border-radius: 10px;
+}
+#output3{
+    background-color: aquamarine;
+    width: 310px;
+    height: 60px;
+    border-radius: 10px;
+}
+/* body{
+    border: 100px;
+    border-color: blue;
+    border-style: dotted;
+    border
+} */
